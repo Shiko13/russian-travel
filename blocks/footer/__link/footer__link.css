@@ -2,7 +2,6 @@
     text-decoration: none;
     color: #fff;
     padding-right: 18px;
-    font-family: 'Inter';
     font-size: 16px;
     line-height: 18px;
     font-weight: 400;
@@ -10,6 +9,10 @@
 
 .footer__link:last-child {
     padding-right: 0;
+}
+
+.footer__link:hover {
+    opacity: 0.5;
 }
 
 @media screen and (max-width: 320px) {

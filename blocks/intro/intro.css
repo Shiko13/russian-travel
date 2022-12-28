@@ -4,6 +4,13 @@
     max-width: 690px;
     margin-top: 92px;
     margin-left: 148px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 4096px) {
+    .intro {
+        margin-left: calc((100% - 984px)/2);
+    }
 }
 
 @media screen and (max-width: 1024px) {
