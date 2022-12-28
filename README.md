@@ -1,8 +1,8 @@
 # Проект: Путешествие по России
 
-Посмотреть сайт можно по этой ссылке
+Посмотреть сайт можно по этой ссылке: [Ссылка на сайт в Github Pages](https://shiko13.github.io/russian-travel/)
 
-Сайт был свёрстан по следующей ссылке: * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+Сайт был свёрстан по следующей ссылке: [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 На сайте можно узнать информацию о некоторых интересных и безумно красивых местах России, а также полюбоваться их фотографиями.
 
