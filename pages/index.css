@@ -34,6 +34,6 @@
 @import url(../blocks/page/page.css);
 @import url(../fonts/inter/inter.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/intro__list_normal.css);
+@import url(../blocks/intro/__list/intro__list-normal.css);
 @import url(../blocks/footer/__links/footer__links.css);
 
