@@ -2,26 +2,28 @@
     color: #fff;
     font-size: 18px;
     line-height: 29px;
-    margin: 0 0 26px 0;
-    padding: 0;
+    margin: 0 auto;
     font-weight: 400;
+    padding-bottom: 26px;
+    font-style: normal;
+    grid-row: 2;
+    grid-column: 2;
 }
 
 .place__paragraph:last-child {
-    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 @media screen and (max-width: 768px) {
     .place__paragraph {
         font-size: 16px;
         line-height: 26px;
-        margin-bottom: 25px;
+        padding-bottom: 25px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .place__paragraph {
         max-width: 288px;
-        padding-left: 16px;
     }
 }

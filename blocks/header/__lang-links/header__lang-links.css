@@ -1,5 +1,13 @@
 .header__lang-links {
     display: flex;
     list-style: none;
-    gap: 18px;
+    gap: 13px;
+    margin: 0;
+    padding-top: 14px;
+}
+
+@media screen and (max-width: 600px) {
+    .header__lang-links {
+        padding-top: 7px;
+    }
 }
