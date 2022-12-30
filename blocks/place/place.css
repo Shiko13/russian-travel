@@ -51,5 +51,6 @@
   .place {
     max-width: 320px;
     gap: 32px;
+    padding: 0;
   }
 }
