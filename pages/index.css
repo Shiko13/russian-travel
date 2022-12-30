@@ -32,6 +32,6 @@
 @import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/intro/__list/intro__list.css);
-@import url(../blocks/intro/__list/intro__list-normal.css);
+@import url(../blocks/intro/__list/_normal/intro__list_normal.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/cover/__link/cover__link.css);

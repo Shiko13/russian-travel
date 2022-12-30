@@ -28,19 +28,22 @@
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 740px) {
   .place {
-    max-width: 580px;
+    max-width: 90%;
     margin-top: 50px;
-    gap: 0;
+    gap: 35px;
     display: flex;
     flex-direction: column;
+    padding-left: 20px;
   }
 }
 
 @media screen and (max-width: 500px) {
   .place {
     max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }
 
